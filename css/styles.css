@@ -1,0 +1,133 @@
+/* primary-text-color: #757575;;
+title-text-color: #212121;
+title-h1-color: #FFFFFF;
+accent-color-background: #2196F3;
+:hover-color: #2196F3; */
+
+:root {
+    --primary-text-color:#757575;
+
+    --title-text-color: #212121;
+
+    --title-h1-color: #FFFFFF;
+
+    --accent-color-background: #2196F3;
+
+    --hover-color: #2196F3;
+}
+
+body {
+    background-color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+}
+
+.web {
+    color: var(--accent-color-background);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+}
+.studio {
+    color: var(--title-text-color);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    
+}
+
+.nav-list {
+    color: var(--title-text-color);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+}
+.nav-list-item {
+    color: var(--title-text-color);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+}
+
+
+.contacts-list {
+    color: var(--primary-text-color);
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+
+}
+
+.contacts-list-item {
+    color: var(--primary-text-color);
+    font-style: normal;
+    font-weight: 500px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+}
+
+.section-title {
+
+}
+
+.title-h1 {
+    color: var(--title-h1-color);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    }
+
+.button {
+    background-color: var(--accent-color-background);
+    color: var(--title-h1-color);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    }
+
+.section-dignity {
+
+}
+
+.section-dignity-h2 {
+
+}
+
+.section-dignity-list {
+
+}
+
+.section-dignity-list-item {
+
+}
+
+.section-dignity-h3 {
+    color: var(--title-text-color);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+}
+
+.section-dignity-text {
+    color: var(--primary-text-color);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
