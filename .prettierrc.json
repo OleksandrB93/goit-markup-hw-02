@@ -1,5 +1,4 @@
 {
-	"editor.cursorWidth": 3,
 	"arrowParens": "avoid",
 	"bracketSpacing": true,
 	"htmlWhitespaceSensitivity": "ignore",
@@ -17,6 +16,5 @@
 	"useTabs": true,
 	"vueIndentScriptAndStyle": false,
 
-	"singleAttributePerLine": false,
-	"editor.formatOnSave": true
+	"singleAttributePerLine": false
 }
