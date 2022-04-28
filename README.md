@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-WebStudio
+# goit-markup-hw-02
+Portfolio
