@@ -241,7 +241,7 @@ body {
 }
 
 .portfolio-list .text {
-	font-size: 14px;
+	
 	line-height: 1.86;
 	color: var(--primary-text-color);
 }
