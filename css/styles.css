@@ -112,7 +112,7 @@ body {
 	color: var(--title-h1-color);
 	background-color: var(--accent-color-background);
 	font-weight: 700;
-	font-size: 16px;
+
 	font-family: inherit;
 	line-height: 1.9;
 	border-radius: 4px;
@@ -176,7 +176,7 @@ body {
 
 .section-team .name {
 	font-weight: 500;
-	font-size: 16px;
+
 	line-height: 1.2;
 	color: var(--title-text-color);
 }
@@ -209,7 +209,7 @@ body {
 	background: var(--accent-btn);
 	border-radius: 4px;
 	font-weight: 500;
-	font-size: 16px;
+
 	line-height: 1.65;
 	cursor: pointer;
 	font-family: inherit;
@@ -221,7 +221,7 @@ body {
 	background-color: var(--accent-color-background);
 	color: var(--title-h1-color);
 	font-weight: 500;
-	font-size: 16px;
+
 	line-height: 1.65;
 }
 
